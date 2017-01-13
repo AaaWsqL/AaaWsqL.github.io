@@ -7,3 +7,5 @@ Before installing OpenCV, I needed to know about Cmake,which is a tool used to b
 
 Well, I found a good enough introduction here at [Derek Molley](http://derekmolloy.ie/hello-world-introductions-to-cmake/)'s site.  
 
+To be continued...
+
