@@ -12,7 +12,7 @@ Hi! I am a sophomore year student of B.Tech. Computer Science and Engineering at
 
 2.Android
 
-3.C
+3.C/C++
 
 4.Java
 
@@ -25,7 +25,7 @@ Hi! I am a sophomore year student of B.Tech. Computer Science and Engineering at
 
 Year | Category | Percentage/Grade
 -----|-------|--------
-2016 | Btech | CPI: 7.43
+2016 | Btech | CPI: 7.84
 2015 | Standard 12th | 93.4% (CBSE)
 2013 | Standard 10th | 9.6/10 (CBSE)
 
